@@ -16,7 +16,7 @@
 
 ### Demo Screeshots
 
-![Grilli Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![Grilli Desktop Demo](https://github.com/Sudeep-Bhandari/Grilli/blob/main/grilli/readme-images/desktop.png "Github Demo")
 
 ### Prerequisites
 
