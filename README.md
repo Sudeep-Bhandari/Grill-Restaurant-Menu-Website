@@ -1,13 +1,9 @@
-
 <div align="center">
-  
-  <br />
-  <br />
-
   <h2 align="center">Grilli - Restaurant Website</h2>
 
   Grilli is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
+  <a href="https://codewithsadee.github.io/grilli/"><strong>➥ Live Demo</strong></a>
 
 </div>
 
@@ -15,30 +11,38 @@
 
 ### Demo Screeshots
 
-![Grilli Desktop Demo](https://github.com/Sudeep-Bhandari/Grilli/blob/main/grilli/readme-images/desktop.png "Github Demo")
+![Grilli Desktop Demo](./readme-images/desktop.png "Desktop Demo")
 
-### Prerequisites
+## Installation
 
-Before you begin, ensure you have met the following requirements:
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Sudeep-Bhandari/Grilli-Restaurant-Menu.git
+   ```
 
-* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+2. Navigate to the project folder:
+   ```bash
+   cd Grilli-Restaurant-Menu
+   ```
 
-### Run Locally
+3. Open `index.html` in your web browser to view the menu.
 
-To run **Grilli** locally, run this command on your git bash:
+## Technologies Used
 
-Linux and macOS:
+- **HTML**: For structuring the menu layout.
+- **CSS**: For styling and layout design.
+- **JavaScript**: For adding interactivity and dynamic functionality.
 
-```bash
-sudo git clone https://github.com/Sudeep-Bhandari/grilli.git
-```
+## How to Use
 
-Windows:
+1. Open the `index.html` file in your preferred web browser.
+2. Explore the menu by navigating through the sections.
+3. (Optional) Modify the `style.css` or `script.js` files to customize the menu.
 
-```bash
-git clone https://github.com/Sudeep-Bhandari/grilli.git
-```
+## Contributing
 
-### License
+Contributions are welcome! Feel free to fork this repository and submit a pull request with your improvements.
 
-[MIT](https://choosealicense.com/licenses/mit/)
+## License
+
+This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/).
