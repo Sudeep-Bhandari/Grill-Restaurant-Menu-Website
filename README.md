@@ -11,7 +11,7 @@
 
 ### Demo Screeshots
 
-![Grilli Desktop Demo]((https://github.com/Sudeep-Bhandari/Grill-Restaurant-Menu-Website/blob/main/readme-images/desktop.png) "Desktop Demo")
+![Grilli Desktop Demo]([(https://github.com/Sudeep-Bhandari/Grill-Restaurant-Menu-Website/blob/main/readme-images/desktop.png) "Desktop Demo")](https://github.com/Sudeep-Bhandari/Grill-Restaurant-Menu-Website/blob/main/readme-images/desktop.png)
 
 ## Installation
 
@@ -46,6 +46,7 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 ## License
 
 This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/).
+
 
 
 
