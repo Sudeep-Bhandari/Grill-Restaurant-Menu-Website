@@ -3,7 +3,10 @@
 
   Grilli is a fully responsive restaurant website, <br />Responsive for all devices, build using HTML, CSS, and JavaScript.
 
-  <a href="(https://github.com/Sudeep-Bhandari/Grill-Restaurant-Menu-Website)"><strong>➥ Live Demo</strong></a>
+##  Live Demo
+[Try it Live](https://Sudeep-Bhandari.github.io/Grill-Restaurant-Menu-Website/)  
+
+---
 
 </div>
 
@@ -46,6 +49,7 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 ## License
 
 This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/).
+
 
 
 
