@@ -16,12 +16,12 @@
 ## Installation
 
 1. Clone the repository:
-   bash
-   git clone https://github.com/Sudeep-Bhandari/Grilli-Restaurant-Menu.git
+   ```bash
+   git clone https://github.com/Sudeep-Bhandari/Grilli-Restaurant-Menu
    
 
 2. Navigate to the project folder:
-   bash
+   ```bash
    cd Grilli-Restaurant-Menu
    
 
@@ -46,3 +46,4 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 ## License
 
 This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/).
+
